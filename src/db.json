@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "age": 30
+    }
+  ],
+  "personalDetails": [
+    {
+      "fullName": "John Doe",
+      "dob": "1999-03-23",
+      "age": 28,
+      "gender": "M",
+      "contactNumber": 8287859467,
+      "emergencyContactNumber": "9876567876",
+      "email": "dd.com"
+    },
+    {
+      "id": "ba5a",
+      "fullName": "hh",
+      "dob": "kk",
+      "age": "kbk",
+      "gender": "k",
+      "contactNumber": "k",
+      "emergencyContactNumber": "bkb",
+      "email": "kb"
+    },
+    {
+      "id": "f3d8",
+      "fullName": "Dipak Kumar Das",
+      "dob": "22/01/1990",
+      "age": "32",
+      "gender": "Male",
+      "contactNumber": "9876765456",
+      "emergencyContactNumber": "7656345676",
+      "email": "dd.demo.com"
+    },
+    {
+      "id": "38ac",
+      "fullName": "Dipak Kumar Das",
+      "dob": "22/01/1990",
+      "age": "32",
+      "gender": "Male",
+      "contactNumber": "9876765456",
+      "emergencyContactNumber": "7656345676",
+      "email": "dd.demo.com"
+    },
+    {
+      "id": "354a",
+      "fullName": "aaSas",
+      "dob": "aS",
+      "age": "as",
+      "gender": "aS",
+      "contactNumber": "As",
+      "emergencyContactNumber": "aS",
+      "email": "As"
+    },
+    {
+      "id": "cdb7",
+      "fullName": "asas",
+      "dob": "NKL",
+      "age": "NL",
+      "gender": "N",
+      "contactNumber": "LN",
+      "emergencyContactNumber": "L",
+      "email": "ASDSAD"
+    },
+    {
+      "id": "8bdf",
+      "fullName": "asas",
+      "dob": "NKL",
+      "age": "NL",
+      "gender": "N",
+      "contactNumber": "LN",
+      "emergencyContactNumber": "L",
+      "email": "ASDSAD"
+    },
+    {
+      "id": "7d1a",
+      "fullName": "asas",
+      "dob": "NKL",
+      "age": "NL",
+      "gender": "N",
+      "contactNumber": "LN",
+      "emergencyContactNumber": "L",
+      "email": "ASDSAD"
+    },
+    {
+      "id": "e82d",
+      "fullName": "asas",
+      "dob": "NKL",
+      "age": "NL",
+      "gender": "N",
+      "contactNumber": "LN",
+      "emergencyContactNumber": "L",
+      "email": "ASDSAD"
+    },
+    {
+      "id": "eb92",
+      "fullName": "sass",
+      "dob": "jjkllnl",
+      "age": "nlnln",
+      "gender": "nlnln",
+      "contactNumber": "nlnlnl",
+      "emergencyContactNumber": "nlnln",
+      "email": "lnlnlnl"
+    },
+    {
+      "id": "34ec",
+      "fullName": "aasas",
+      "dob": "aSAs",
+      "age": "aSAs",
+      "gender": "asas",
+      "contactNumber": "aSas",
+      "emergencyContactNumber": "aSas",
+      "email": "SAss"
+    },
+    {
+      "id": "817e",
+      "fullName": "aasas",
+      "dob": "aSAs",
+      "age": "aSAs",
+      "gender": "asas",
+      "contactNumber": "aSas",
+      "emergencyContactNumber": "aSas",
+      "email": "SAss"
+    },
+    {
+      "id": "0510",
+      "fullName": "aasa",
+      "dob": "asaS",
+      "age": "asaS",
+      "gender": "aSasa",
+      "contactNumber": "asaS",
+      "emergencyContactNumber": "asaS",
+      "email": "asaS"
+    },
+    {
+      "id": "b2bb",
+      "fullName": "asS",
+      "dob": "aSas",
+      "age": "aSas",
+      "gender": "ASAs",
+      "contactNumber": "aSas",
+      "emergencyContactNumber": "aSas",
+      "email": "asaSas"
+    },
+    {
+      "id": "003c",
+      "fullName": "asS",
+      "dob": "aSas",
+      "age": "aSas",
+      "gender": "ASAs",
+      "contactNumber": "aSas",
+      "emergencyContactNumber": "aSas",
+      "email": "asaSas"
+    },
+    {
+      "id": "e374",
+      "fullName": "asdasd",
+      "dob": "sad",
+      "age": "sad",
+      "gender": "sad",
+      "contactNumber": "sad",
+      "emergencyContactNumber": "sad",
+      "email": "asd"
+    },
+    {
+      "id": "c92d",
+      "fullName": "asa",
+      "dob": "as",
+      "age": "as",
+      "gender": "asas",
+      "contactNumber": "aS",
+      "emergencyContactNumber": "as",
+      "email": "aS"
+    }
+  ],
+  "AddressDetails": [
+    {
+      "streetAddress": "new colony",
+      "city": "Jawal Vihar",
+      "state": "Odisha",
+      "stateId": "OD",
+      "country": "India",
+      "countryId": "IND",
+      "pincode": "876345"
+    },
+    {
+      "id": "3e66",
+      "streetAddress": "ASAs",
+      "city": "asA",
+      "state": "asaAs",
+      "stateId": null,
+      "country": "asa",
+      "countryId": null,
+      "pincode": "aS",
+      "status": null
+    }
+  ],
+  "Payment": [
+    {
+      "status": "Complete"
+    }
+  ],
+  "FinalStatusSubmit": [
+    {
+      "status": "Completed"
+    }
+  ]
+}

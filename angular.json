@@ -20,6 +20,7 @@
             "outputPath": "dist/test18",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "allowedCommonJsDependencies": [],
             "polyfills": [
               "zone.js"
             ],
@@ -32,6 +33,9 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-toastr/toastr.css",
               "src/styles.scss"
             ],
             "scripts": [],
@@ -96,6 +100,9 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-toastr/toastr.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -103,5 +110,11 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "2d76ef95-c453-4e66-97e3-c6a46a8e6ba3",
+    "schematicCollections": [
+      "@ngrx/schematics"
+    ]
   }
 }
